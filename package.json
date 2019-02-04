@@ -1,10 +1,11 @@
 {
-  "name": "@mapbox/abaculus",
-  "version": "3.0.0",
+  "name": "@aerisweather/abaculus",
+  "version": "3.1.0",
   "description": "stitches map tiles together for high-res exporting from tm2",
   "main": "index.js",
   "contributors": [
-    "Yuri Astrakhan <yurik@wikimedia.org>"
+    "Yuri Astrakhan <yurik@wikimedia.org>",
+    "Seth Miller <smiller@aerisweather.com>"
   ],
   "scripts": {
     "test": "mocha -R spec"

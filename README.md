@@ -1,4 +1,9 @@
 ## abaculus
+
+> **Note From AerisWeather:**
+> We have made some updates to this repo and publishing it as @aerisweather/abaculus@3.1.0 on npm
+> Tests all pass for node 4, 8, 10
+
 a small block of stone, tile, glass, or other material used in the construction of a mosaic
 
 or,
