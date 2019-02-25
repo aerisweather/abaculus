@@ -1,6 +1,10 @@
 # CHANGELOG
 
-# [Working]
+# v3.1.1
+
+* Removed redundant scale
+
+# v3.1.0
 
 * Updates to mapnik 4.2.1
 * Testing node.js versions 8, 10 (LTS versions, 11 failing)
