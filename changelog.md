@@ -1,5 +1,9 @@
 # CHANGELOG
 
+# v3.1.2
+
+* Removed quality setting, was failing on null even though it should be okay to be `none`. Whatever none means in JS...
+
 # v3.1.1
 
 * Removed redundant scale
@@ -23,7 +27,7 @@
 
 # v2.0.3
 
-* Fixes a series of small bugs 
+* Fixes a series of small bugs
 
 # v2.0.0
 

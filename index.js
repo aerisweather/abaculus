@@ -185,7 +185,6 @@ abaculus.stitchTiles = function(coords, format, quality, getTile, callback) {
 
         blend(data, {
             format: format,
-            quality: quality,
             width: w,
             height: h,
             reencode: true
